@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:FFFFFF&height=230&section=header&text=FAIQ%20HASSAN&fontSize=58&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20Automated%20Solutions%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=1a1a1a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:FFFFFF&height=230&section=header&text=FAIQ%20HASSAN&fontSize=58&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Automation%20Engineer&descAlignY=58&descSize=18&descColor=1a1a1a" width="100%"/>
 
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=600&size=22&duration=3000&pause=800&color=FF7A00&center=true&vCenter=true&width=650&lines=Discipline+beats+motivation.+Systems+beat+both.;Build+it+once.+Automate+it+forever.;Full-Stack+Development+%2B+Business+Automation" alt="Typing SVG" />
+</p>
 
 <br/>
 
@@ -10,11 +16,11 @@
 <tr>
 <td width="60%" valign="middle">
 
-### Building software that runs businesses — and automating the parts that shouldn't need a human.
+### I build software that runs businesses, and automate the parts that shouldn't need a human.
 
-I'm **Faiq Hassan**, founder of **Automated Solutions**. I design and ship full-stack products — CRMs, ERPs, POS systems, SaaS platforms — then connect them with **automation pipelines (n8n, APIs, webhooks)** so the business runs itself instead of running on manual work.
+I'm **Faiq Hassan**, a full-stack developer who designs complete products (CRMs, ERPs, POS systems, SaaS platforms) and then connects them with **automation pipelines** (n8n, APIs, webhooks) so they keep running without manual effort.
 
-Based in Faisalabad, Pakistan 🇵🇰 — working with founders and teams worldwide.
+Based in Faisalabad, Pakistan 🇵🇰, working with clients worldwide.
 
 </td>
 <td width="40%" align="center">
@@ -29,10 +35,10 @@ Based in Faisalabad, Pakistan 🇵🇰 — working with founders and teams world
 
 <div align="center">
 
-![](https://img.shields.io/badge/-Full--Stack%20Development-FF7A00?style=flat-square&labelColor=1a1a1a)
-![](https://img.shields.io/badge/-SaaS%20Product%20Design-FF7A00?style=flat-square&labelColor=1a1a1a)
-![](https://img.shields.io/badge/-Business%20Automation-FF7A00?style=flat-square&labelColor=1a1a1a)
-![](https://img.shields.io/badge/-n8n%20Workflows-FF7A00?style=flat-square&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Full--Stack%20Development-FF7A00?style=flat&labelColor=1a1a1a)
+![](https://img.shields.io/badge/SaaS%20Product%20Design-FF7A00?style=flat&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Business%20Automation-FF7A00?style=flat&labelColor=1a1a1a)
+![](https://img.shields.io/badge/n8n%20Workflows-FF7A00?style=flat&labelColor=1a1a1a)
 
 </div>
 
@@ -40,24 +46,19 @@ Based in Faisalabad, Pakistan 🇵🇰 — working with founders and teams world
 
 ## ⚙️ What I Do
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**🏗️ Build**
+![](https://img.shields.io/badge/🏗️_Build-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
 
-Full-stack products engineered to scale — CRMs, ERPs, POS systems, and custom SaaS platforms, built clean from day one so they don't need a rewrite at 10x growth.
+Full-stack products engineered to scale: CRMs, ERPs, POS systems, and custom SaaS platforms, built clean from day one.
 
-</td>
-<td width="50%" valign="top">
+<br/><br/>
 
-**⚙️ Automate**
+![](https://img.shields.io/badge/⚙️_Automate-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
 
-n8n workflows, API integrations, and internal tools that remove repetitive work from a business — lead capture, follow-ups, reporting, and internal ops that run without a human touching them.
+n8n workflows, API integrations, and internal tools that remove repetitive work from a business.
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -65,7 +66,11 @@ n8n workflows, API integrations, and internal tools that remove repetitive work 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,laravel,php,mysql,nodejs,n8n,figma,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,laravel,php,mysql,nodejs,figma,git,github,vscode&theme=light" />
+
+<br/><br/>
+
+![](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 </div>
 
@@ -73,28 +78,54 @@ n8n workflows, API integrations, and internal tools that remove repetitive work 
 
 ## 🔗 Automation & Systems
 
-Automation isn't a feature I add on request — it's how I build by default.
+Automation isn't a feature I add on request. It's how I build by default.
 
-<table>
-<tr><td width="30%"><b>🤖 n8n Workflows</b></td><td>Custom automation pipelines connecting CRMs, forms, databases, and third-party APIs</td></tr>
-<tr><td><b>🔄 API Integrations</b></td><td>Wiring services together so data moves without manual entry or copy-pasting</td></tr>
-<tr><td><b>📩 Lead & Client Automation</b></td><td>Auto-capture, auto-tag, and auto-follow-up systems for client pipelines</td></tr>
-<tr><td><b>🧾 Business Process Automation</b></td><td>Invoicing, reporting, and notification systems that trigger themselves</td></tr>
-<tr><td><b>🗂️ Internal Tools</b></td><td>Lightweight dashboards and scripts that quietly kill repetitive ops work</td></tr>
-</table>
+<div align="center">
+
+![](https://img.shields.io/badge/🤖_n8n_Workflows-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+
+Custom automation pipelines connecting CRMs, forms, databases, and third-party APIs.
+
+<br/><br/>
+
+![](https://img.shields.io/badge/🔄_API_Integrations-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+
+Wiring services together so data moves without manual entry.
+
+<br/><br/>
+
+![](https://img.shields.io/badge/📩_Lead_%26_Client_Automation-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+
+Auto-capture, auto-tag, and auto-follow-up systems for client pipelines.
+
+<br/><br/>
+
+![](https://img.shields.io/badge/🧾_Process_Automation-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+
+Invoicing, reporting, and notification systems that trigger themselves.
+
+<br/><br/>
+
+![](https://img.shields.io/badge/🗂️_Internal_Tools-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+
+Lightweight dashboards and scripts that quietly kill repetitive ops work.
+
+</div>
 
 <br/>
 
 ## 🚀 What I Build
 
-<table>
-<tr><td width="30%"><b>🧾 POS Systems</b></td><td>Lightning-fast, offline-capable point-of-sale platforms</td></tr>
-<tr><td><b>📊 CRM Platforms</b></td><td>Lead tracking, pipeline management, client portals</td></tr>
-<tr><td><b>🏢 ERP Solutions</b></td><td>End-to-end business management systems</td></tr>
-<tr><td><b>🌐 Web Applications</b></td><td>Scalable, high-performance React & Laravel builds</td></tr>
-<tr><td><b>💼 SaaS Products</b></td><td>Products I'm building and scaling under Automated Solutions</td></tr>
-<tr><td><b>⚙️ Automation Systems</b></td><td>n8n-powered workflows connecting everything above</td></tr>
-</table>
+<div align="center">
+
+![](https://img.shields.io/badge/🧾_POS_Systems-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+![](https://img.shields.io/badge/📊_CRM_Platforms-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+![](https://img.shields.io/badge/🏢_ERP_Solutions-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+![](https://img.shields.io/badge/🌐_Web_Applications-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+![](https://img.shields.io/badge/💼_SaaS_Products-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+![](https://img.shields.io/badge/⚙️_Automation_Systems-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+
+</div>
 
 <br/>
 
@@ -111,13 +142,37 @@ Automation isn't a feature I add on request — it's how I build by default.
 
 ## 💼 The Way I Work
 
-<table>
-<tr><td>⚙️</td><td><b>Automation-first</b> — if it's repetitive, I build a system for it, not a habit around it</td></tr>
-<tr><td>⚡</td><td><b>Speed with no shortcuts</b> — fast delivery without cutting corners on architecture</td></tr>
-<tr><td>🧩</td><td><b>Business-minded</b> — every build is judged by ROI, not just how it looks in a demo</td></tr>
-<tr><td>🎯</td><td><b>Detail obsessed</b> — pixel-perfect UI, clean code, systems that don't break at scale</td></tr>
-<tr><td>🌍</td><td><b>Remote-ready</b> — async-friendly, deadline-driven, built for global clients</td></tr>
-</table>
+<div align="center">
+
+![](https://img.shields.io/badge/⚙️_Automation--first-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+
+If it's repetitive, I build a system for it, not a habit around it.
+
+<br/><br/>
+
+![](https://img.shields.io/badge/⚡_Speed_with_no_shortcuts-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+
+Fast delivery without cutting corners on architecture.
+
+<br/><br/>
+
+![](https://img.shields.io/badge/🧩_Business--minded-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+
+Every build is judged by ROI, not just how it looks in a demo.
+
+<br/><br/>
+
+![](https://img.shields.io/badge/🎯_Detail_obsessed-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+
+Pixel-perfect UI, clean code, systems that don't break at scale.
+
+<br/><br/>
+
+![](https://img.shields.io/badge/🌍_Remote--ready-FFFFFF?style=flat&labelColor=FF7A00&color=1a1a1a)
+
+Async-friendly, deadline-driven, built for global clients.
+
+</div>
 
 <br/>
 
@@ -133,7 +188,7 @@ Automation isn't a feature I add on request — it's how I build by default.
 
 <br/>
 
-*"Code is temporary. Impact is permanent."*
+<img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=500&size=18&duration=4000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=600&lines=Nobody+remembers+the+effort.+Everyone+remembers+the+result." alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FF7A00&height=120&section=footer" width="100%"/>
 
