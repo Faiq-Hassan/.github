@@ -21,7 +21,7 @@ Based in Faisalabad, Pakistan 🇵🇰 · working with founders and teams worldw
 </td>
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="290"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="260"/>
 
 </td>
 </tr>
@@ -31,10 +31,10 @@ Based in Faisalabad, Pakistan 🇵🇰 · working with founders and teams worldw
 
 <div align="center">
 
-![](https://img.shields.io/badge/Full--Stack%20Development-CC5500?style=flat&labelColor=1a1a1a&color=CC5500)
-![](https://img.shields.io/badge/SaaS%20Product%20Design-CC5500?style=flat&labelColor=1a1a1a&color=CC5500)
-![](https://img.shields.io/badge/Business%20Automation-CC5500?style=flat&labelColor=1a1a1a&color=CC5500)
-![](https://img.shields.io/badge/n8n%20Workflows-CC5500?style=flat&labelColor=1a1a1a&color=CC5500)
+![](https://img.shields.io/badge/💻_Full--Stack_Development-CC5500?style=flat&labelColor=1a1a1a&color=CC5500)
+![](https://img.shields.io/badge/🎨_SaaS_Product_Design-CC5500?style=flat&labelColor=1a1a1a&color=CC5500)
+![](https://img.shields.io/badge/🤖_Business_Automation-CC5500?style=flat&labelColor=1a1a1a&color=CC5500)
+![](https://img.shields.io/badge/n8n_Workflows-CC5500?style=flat&logo=n8n&logoColor=white&labelColor=1a1a1a&color=CC5500)
 
 </div>
 
@@ -67,22 +67,7 @@ n8n workflows, API integrations, and internal tools that remove repetitive work:
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-CC5500?style=flat&logo=react&logoColor=white&labelColor=1a1a1a)
-![HTML5](https://img.shields.io/badge/HTML5-CC5500?style=flat&logo=html5&logoColor=white&labelColor=1a1a1a)
-![CSS3](https://img.shields.io/badge/CSS3-CC5500?style=flat&logo=css3&logoColor=white&labelColor=1a1a1a)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-CC5500?style=flat&logo=tailwindcss&logoColor=white&labelColor=1a1a1a)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-CC5500?style=flat&logo=bootstrap&logoColor=white&labelColor=1a1a1a)
-
-![Laravel](https://img.shields.io/badge/Laravel-CC5500?style=flat&logo=laravel&logoColor=white&labelColor=1a1a1a)
-![PHP](https://img.shields.io/badge/PHP-CC5500?style=flat&logo=php&logoColor=white&labelColor=1a1a1a)
-![MySQL](https://img.shields.io/badge/MySQL-CC5500?style=flat&logo=mysql&logoColor=white&labelColor=1a1a1a)
-![Node.js](https://img.shields.io/badge/Node.js-CC5500?style=flat&logo=nodedotjs&logoColor=white&labelColor=1a1a1a)
-![n8n](https://img.shields.io/badge/n8n-CC5500?style=flat&logo=n8n&logoColor=white&labelColor=1a1a1a)
-
-![Figma](https://img.shields.io/badge/Figma-CC5500?style=flat&logo=figma&logoColor=white&labelColor=1a1a1a)
-![Git](https://img.shields.io/badge/Git-CC5500?style=flat&logo=git&logoColor=white&labelColor=1a1a1a)
-![GitHub](https://img.shields.io/badge/GitHub-CC5500?style=flat&logo=github&logoColor=white&labelColor=1a1a1a)
-![VS Code](https://img.shields.io/badge/VS_Code-CC5500?style=flat&logo=visualstudiocode&logoColor=white&labelColor=1a1a1a)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,html,css,tailwind,bootstrap,laravel,php,mysql,nodejs,n8n,figma,git,github,vscode&theme=light" />
 
 </div>
 
@@ -115,7 +100,7 @@ Automation isn't a feature I add on request, it's how I build by default.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Faiq-Hassan&show_icons=true&hide_border=true&hide_title=true&title_color=CC5500&icon_color=CC5500&text_color=1a1a1a&bg_color=FFFFFF&hide_rank=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Faiq-Hassan&show_icons=true&hide_border=true&hide_title=true&title_color=CC5500&icon_color=CC5500&text_color=1a1a1a&bg_color=FFFFFF"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiq-Hassan&layout=compact&hide_border=true&title_color=CC5500&text_color=1a1a1a&bg_color=FFFFFF&langs_count=8"/>
 
 </div>
@@ -138,7 +123,7 @@ Automation isn't a feature I add on request, it's how I build by default.
 
 **Got an idea, a manual process draining your time, or a system that needs to be built right the first time?**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-CC5500?style=for-the-badge&labelColor=1a1a1a)](https://www.justbrandshype.com/faiqhassan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-CC5500?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)](https://faiqhassan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CC5500?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/faiq-hassan-59648621b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-CC5500?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Faiq-Hassan)
 
