@@ -16,7 +16,7 @@
 
 I'm **Faiq Hassan**, a full-stack developer who designs and ships software that businesses actually depend on: CRMs, ERPs, POS systems, and SaaS platforms. I connect them with automation pipelines built in n8n, APIs, and webhooks, so operations keep moving without manual work behind them.
 
-Based in Faisalabad, Pakistan 🇵🇰 · working with founders and teams worldwide.
+Based in Pakistan 🇵🇰 · Working with founders and teams worldwide.
 
 </td>
 <td width="40%" align="center">
@@ -95,15 +95,6 @@ Automation isn't a feature I add on request, it's how I build by default.
 - ⚙️ **Automation Systems** · n8n-powered workflows connecting everything above
 
 <br/>
-
-## 📊 Activity
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Faiq-Hassan&show_icons=true&hide_border=true&hide_title=true&title_color=CC5500&icon_color=CC5500&text_color=1a1a1a&bg_color=FFFFFF"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiq-Hassan&layout=compact&hide_border=true&title_color=CC5500&text_color=1a1a1a&bg_color=FFFFFF&langs_count=8"/>
-
-</div>
 
 <br/>
 
